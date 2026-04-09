@@ -1,5 +1,3 @@
-# MetodologiaDoTrabalhoCientifi
-
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/robot_framework.png" width="10%"/> 
 
 # Metodologia do Trabalho Cientifico I
