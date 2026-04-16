@@ -42,14 +42,6 @@ Materiais de aula do professor Berg Dantas.
         <td>30/04</td>
         <td>Avaliação (escrita)</td>
     </tr>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
 </table>
 
 ## Referências
