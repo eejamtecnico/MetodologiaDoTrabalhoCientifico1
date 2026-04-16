@@ -16,7 +16,7 @@ Materiais de aula do professor Berg Dantas.
     </tr>
     <tr>
         <td>12/03</td>
-        <td><a href="https://www.canva.com/design/DAHDEr5KOho/675FsKJKkq7zwRHAjJZ_Bw/edit?utm_content=DAHDEr5KOho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Conceito de ciência e tipos de conhecimento: empírico, filosófico religioso e científico.</a></td>
+        <td><a href="">Conceito de ciência e tipos de conhecimento: empírico, filosófico religioso e científico.</a></td>
     </tr>
     <tr>
         <td>19/03</td>
@@ -31,16 +31,16 @@ Materiais de aula do professor Berg Dantas.
         <td>Feriado.</td>
     </tr>
      <tr>
-        <td>08/04</td>
+        <td>08/04 e 16/04</td>
         <td><a href="https://canva.link/m5y28g9xlwkjmd7">Ciência, Tecnologia e Sociedade</td></a>
     </tr>
     <tr>
-        <td></td>
+        <td>23/04</td>
         <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>30/04</td>
+        <td>Avaliação (escrita)</td>
     </tr>
     <tr>
         <td></td>
