@@ -16,7 +16,7 @@ Materiais de aula do professor Berg Dantas.
     </tr>
     <tr>
         <td>12/03</td>
-        <td><a href="">Conceito de ciência e tipos de conhecimento: empírico, filosófico religioso e científico.</a></td>
+        <td><a href="https://canva.link/p6dhkyxgikk3ahv">Conceito de ciência e tipos de conhecimento: empírico, filosófico religioso e científico.</a></td>
     </tr>
     <tr>
         <td>19/03</td>
@@ -36,7 +36,7 @@ Materiais de aula do professor Berg Dantas.
     </tr>
     <tr>
         <td>23/04</td>
-        <td></td>
+        <td>"Open class"</td>
     </tr>
     <tr>
         <td>30/04</td>
