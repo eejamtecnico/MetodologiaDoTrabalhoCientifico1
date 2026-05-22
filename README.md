@@ -4,7 +4,7 @@
 
 Materiais de aula do professor Berg Dantas.
 
-## Cronograma do primeiro bimestre
+## Cronograma do segundo bimestre
 
 <b>ATENÇÃO: Acessem o arquivo atividade1b para fazer a atividade que será usada para a pontuação extra.</b>
 
@@ -12,7 +12,23 @@ Materiais de aula do professor Berg Dantas.
 <table border="1">
     <tr>
         <td></td>
+        <td>Gêneros textuais acadêmicos: artigo, resenha, resumo etc.</td>
+    </tr>
+        <tr>
         <td></td>
+        <td>Como ler um trabalho científico? <br />Estratégias de leitura: skimming e scanning.</td>
+    </tr>
+        <tr>
+        <td></td>
+        <td>Identificação de hipótese, tese, argumento e evidência.</td>
+    </tr>
+        <tr>
+        <td></td>
+        <td>ABNT: citações e referências</td>
+    </tr>
+        <tr>
+        <td></td>
+        <td>Uso crítico de fontes digitais e fake news</td>
     </tr>
 </table>
 
