@@ -24,11 +24,11 @@ Materiais de aula do professor Berg Dantas.
     </tr>
         <tr>
         <td></td>
-        <td>ABNT: citações e referências</td>
+        <td>ABNT: citações e referências.</td>
     </tr>
         <tr>
         <td></td>
-        <td>Uso crítico de fontes digitais e fake news</td>
+        <td>Uso crítico de fontes digitais e fake news.</td>
     </tr>
 </table>
 
