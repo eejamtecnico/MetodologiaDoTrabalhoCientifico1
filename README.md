@@ -12,7 +12,7 @@ Materiais de aula do professor Berg Dantas.
 <table border="1">
     <tr>
         <td>28/05</td>
-        <td>Gêneros textuais acadêmicos: artigo, resenha, resumo etc.</td>
+        <td>Gêneros textuais acadêmicos: artigo, resenha, resumo etc.<br /><a href="https://g1.globo.com/inovacao/noticia/2025/08/03/primeiros-data-centers-de-ia-no-brasil-podem-consumir-mesma-energia-de-16-milhoes-de-casas-conheca-os-projetos.ghtml">link da reportagem para os resumos</a></td>
     </tr>
         <tr>
         <td></td>
