@@ -11,7 +11,7 @@ Materiais de aula do professor Berg Dantas.
 
 <table border="1">
     <tr>
-        <td>04/06</td>
+        <td>28/05</td>
         <td>Gêneros textuais acadêmicos: artigo, resenha, resumo etc.</td>
     </tr>
         <tr>
