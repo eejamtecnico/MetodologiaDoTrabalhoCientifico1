@@ -6,9 +6,6 @@ Materiais de aula do professor Berg Dantas.
 
 ## Cronograma do segundo bimestre
 
-<b>ATENÇÃO: Acessem o arquivo atividade1b para fazer a atividade que será usada para a pontuação extra.</b>
-
-
 <table border="1">
     <tr>
         <td>28/05</td>
