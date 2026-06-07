@@ -3,6 +3,7 @@
 # Metodologia do Trabalho Cientifico I
 
 Materiais de aula do professor Berg Dantas.
+
 ## Cronograma do primeiro bimestre
 
 <table border="1">
@@ -109,6 +110,7 @@ Materiais de aula do professor Berg Dantas.
 
 
 ## Referências
+
 APPOLINÁRIO, Fábio. Metodologia da Ciência: Filosofia e Prática da Pesquisa. São Paulo:Thomson.2006.
 
 SEVERINO, Joaquim Severino. Metodologia do Trabalho Científico. 21ª ed. São Paulo: Cortez. 2000.
