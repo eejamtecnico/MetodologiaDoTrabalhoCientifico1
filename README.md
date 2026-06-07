@@ -8,7 +8,7 @@ Materiais de aula do professor Berg Dantas.
 
 <table border="1">
     <tr>
-        <td>26/02 até 05/02</td>
+        <td>26/02 até 05/03</td>
         <td>O que é ciência?</td>
     </tr>
     <tr>
