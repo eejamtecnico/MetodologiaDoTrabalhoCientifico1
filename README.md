@@ -29,7 +29,7 @@ Materiais de aula do professor Berg Dantas.
 
 <table border="1">
     <tr>
-        <td>21/05 até 04/06</td>
+        <td>21/05 até 28/07</td>
         <td><p>Gêneros textuais acadêmicos.</p><p><a href="https://github.com/eejamtecnico/MetodologiaDoTrabalhoCientifico1/blob/main/mtc1a.pdf">Atividade 1 (Vale 3 pontos)</a></p></td>
     </tr>
     <tr>
