@@ -38,14 +38,6 @@ Materiais de aula do professor Berg Dantas.
     </tr>
     <tr>
         <td></td>
-        <td>Fichamento, referências e citações.</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Usando o Zotero para criar fichamentos, incluir citações e gerar lista de referências.</td>
-    </tr>
-    <tr>
-        <td></td>
         <td>Buscando fontes confiáveis.</td>
     </tr>
     <tr>
